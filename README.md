@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **C language, bash**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/gallery/137335377/Portfolio-Matteo-Isidori-Cult-Cobain](https://www.behance.net/gallery/137335377/Portfolio-Matteo-Isidori-Cult-Cobain)
+- 👨‍💻 My portfolio as a digital artist can be seen at: [https://bit.ly/3SFwAXU)
 
-- 📫 How to reach me **matteoteoisidori@gmail.com**
+- 📫 How to reach me: **matteoteoisidori@gmail.com**
 
-- ⚡ Fun fact **I am new to coding, my previous life was as a journalist and as a graphic designer**
+- ⚡ Fun fact: **I am new to coding, my previous life was as a journalist and as a graphic designer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
