@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C language**
 
-- 👨‍💻 My portfolio as a digital artist can be seen at: [https://bit.ly/3SFwAXU)
+- 👨‍💻 My portfolio as a digital artist can be seen at: https://bit.ly/3SFwAXU
 
 - 📫 How to reach me: **matteoteoisidori@gmail.com**
 
