@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Matteo Isidori</h1>
 <h3 align="center">An 🇮🇹 42 Rome Luiss student</h3>
 
-- 🌱 I’m currently learning **C language, bash**
+- 🌱 I’m currently learning **C language**
 
 - 👨‍💻 My portfolio as a digital artist can be seen at: [https://bit.ly/3SFwAXU)
 
