@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D16AQEd0VTzqhYUvQ/profile-displaybackgroundimage-shrink_350_1400/0/1606171839423?e=1683158400&v=beta&t=uVqzR_tKNaBTwaKkLExmdxSopDiToVFXic63poJQ_6U)
 
-<h1 align="center">Hi 👋, I'm Matteo Isidori</h1>
+<h1 align="center">Matteo Isidori</h1>
 <h3 align="center">An 🇮🇹 42 Rome Luiss student</h3>
 
 - 🌱 I’m currently learning **C language**
@@ -19,4 +19,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/it/products/illustrator.html?gclid=CjwKCAiAr4GgBhBFEiwAgwORrdjHqf0ySfe93OkzxRBinnIPtAPbLOr2WSzSZTznTmSpHqayw53OZBoChy4QAvD_BwE&mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAiAr4GgBhBFEiwAgwORrdjHqf0ySfe93OkzxRBinnIPtAPbLOr2WSzSZTznTmSpHqayw53OZBoChy4QAvD_BwE:G:s&s_kwcid=AL!3085!3!595517829761!e!!g!!adobe%20illustrator!1478761148!58366715478" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/it/products/indesign/landpb.html?gclid=CjwKCAiAr4GgBhBFEiwAgwORrRynszZpmnDTsx5Z35Cr812iu3qmXSIjN8vcyk3rfj2BUFfudozYHBoCe2gQAvD_BwE&mv=search&mv=search&sdid=LCDWTLJX&ef_id=CjwKCAiAr4GgBhBFEiwAgwORrRynszZpmnDTsx5Z35Cr812iu3qmXSIjN8vcyk3rfj2BUFfudozYHBoCe2gQAvD_BwE:G:s&s_kwcid=AL!3085!3!595452222955!e!!g!!adobe%20indesign!1457479130!59242734640"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cc-icon.svg" alt="indesign" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/it/products/photoshop/landpb.html?gclid=CjwKCAiAr4GgBhBFEiwAgwORrWdZGzk4ewrQV3M20bHdOM3MkufOVkHbyY1AMnUwO5Emv4no_lMrixoCfpMQAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiAr4GgBhBFEiwAgwORrWdZGzk4ewrQV3M20bHdOM3MkufOVkHbyY1AMnUwO5Emv4no_lMrixoCfpMQAvD_BwE:G:s&s_kwcid=AL!3085!3!441910900757!e!!g!!adobe%20photoshop!1457478956!59242745680" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/it/products/premiere.html?gclid=CjwKCAiAr4GgBhBFEiwAgwORrRaUeSBj10-ltBhW8NeZbemsOh2LNoTLyEbsh2Bj321V_EamWLzUzxoC98IQAvD_BwE&mv=search&mv=search&sdid=LQLZT7BT&ef_id=CjwKCAiAr4GgBhBFEiwAgwORrRaUeSBj10-ltBhW8NeZbemsOh2LNoTLyEbsh2Bj321V_EamWLzUzxoC98IQAvD_BwE:G:s&s_kwcid=AL!3085!3!340617944760!e!!g!!premiere%20pro!1457479160!59242756000" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" alt="premiere" width="40" height="40"/>
+</a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinci" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/it-it/microsoft-365?rtc=1" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="microsoft_365" width="40" height="40"/>
+</a>
+</p>
