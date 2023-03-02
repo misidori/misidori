@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://media.licdn.com/dms/image/C4D16AQEd0VTzqhYUvQ/profile-displaybackgroundimage-shrink_350_1400/0/1606171839423?e=1683158400&v=beta&t=uVqzR_tKNaBTwaKkLExmdxSopDiToVFXic63poJQ_6U) -->
 
 <h1 align="left">Matteo Isidori</h1>
-<h3 align="left">An 🇮🇹 42Rome Luiss student</h3>
+<h3 align="left">An 🇮🇹 42 Rome Luiss student</h3>
 
 - 🌱 I’m currently learning **C language**
 
