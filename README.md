@@ -35,4 +35,3 @@
 <a href="https://www.adobe.com/it/products/premiere.html?gclid=CjwKCAiAr4GgBhBFEiwAgwORrRaUeSBj10-ltBhW8NeZbemsOh2LNoTLyEbsh2Bj321V_EamWLzUzxoC98IQAvD_BwE&mv=search&mv=search&sdid=LQLZT7BT&ef_id=CjwKCAiAr4GgBhBFEiwAgwORrRaUeSBj10-ltBhW8NeZbemsOh2LNoTLyEbsh2Bj321V_EamWLzUzxoC98IQAvD_BwE:G:s&s_kwcid=AL!3085!3!340617944760!e!!g!!premiere%20pro!1457479160!59242756000" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" alt="premiere" width="40" height="40"/>
 </a>
 </p>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3WCGjg6MfCYpQcti17" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/42-rome-luiss-3WCGjg6MfCYpQcti17">via GIPHY</a></p>
