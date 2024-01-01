@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/e6806879-73e9-4080-92e6-0e2ca5213955" alt="c" width="50" height="50"/>
 </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinci" width="50" height="50"/>
 </a>
