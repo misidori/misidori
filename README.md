@@ -17,9 +17,12 @@
 <a href="https://www.behance.net/matteoisidori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/matteoisidori" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/isidori-matteo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isidori-matteo/" height="50" width="50" /></a>
 </p>
+![C_Programming_Language]()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://www.programiz.com/c-programming" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/ddb4cf56-fb0a-43f2-9502-7d5510642fb3" alt="c" width="50" height="50"/>
+</a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/e6806879-73e9-4080-92e6-0e2ca5213955" alt="c" width="50" height="50"/>
 </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinci" width="50" height="50"/>
