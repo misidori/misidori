@@ -22,7 +22,9 @@
 <p align="left">
 <a href="https://www.programiz.com/c-programming" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/ddb4cf56-fb0a-43f2-9502-7d5510642fb3" alt="c" width="50" height="50"/>
 </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/e6806879-73e9-4080-92e6-0e2ca5213955" alt="c" width="50" height="50"/>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/930c1a6f-e7aa-455c-a7b3-1ff782633005" alt="c++" width="50" height="50"/>
+</a>  
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/e6806879-73e9-4080-92e6-0e2ca5213955" alt="python" width="50" height="50"/>
 </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinci" width="50" height="50"/>
 </a>
