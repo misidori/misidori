@@ -31,7 +31,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/e6806879-73e9-4080-92e6-0e2ca5213955" alt="python" width="50" height="50"/>
 </a>
 <h3 align="left">Tools:</h3>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/42_cursus/assets/123883959/e439aab4-3375-4321-bd03-0d49cfa3fedf" alt="Visual Studio Code" width="50" height="50"/>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/42_cursus/assets/123883959/ae311b65-60d4-4ee4-95ef-fb915b0db411" alt="Visual Studio Code" width="50" height="50"/>
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/42_cursus/assets/123883959/ccbdc4c8-1ae4-4e2c-b371-0f026657c214" alt="IntelliJ IDEA" width="50" height="50"/>
 </a>
