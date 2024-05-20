@@ -31,9 +31,9 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/e6806879-73e9-4080-92e6-0e2ca5213955" alt="python" width="50" height="50"/>
 </a>
 <h3 align="left">Tools:</h3>
-<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinci" width="50" height="50"/>
-</a>
 <a href="https://www.microsoft.com/it-it/microsoft-365?rtc=1" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="microsoft_365" width="50" height="50"/>
+</a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinci" width="50" height="50"/>
 </a>
 <a href="https://www.adobe.com/it/products/illustrator.html?gclid=CjwKCAiAr4GgBhBFEiwAgwORrdjHqf0ySfe93OkzxRBinnIPtAPbLOr2WSzSZTznTmSpHqayw53OZBoChy4QAvD_BwE&mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAiAr4GgBhBFEiwAgwORrdjHqf0ySfe93OkzxRBinnIPtAPbLOr2WSzSZTznTmSpHqayw53OZBoChy4QAvD_BwE:G:s&s_kwcid=AL!3085!3!595517829761!e!!g!!adobe%20illustrator!1478761148!58366715478" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/4af90fff-f007-417d-98cf-1b7cf26fabd5" width="50" height="50"/> 
 </a>
