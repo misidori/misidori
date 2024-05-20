@@ -24,6 +24,8 @@
 </a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/930c1a6f-e7aa-455c-a7b3-1ff782633005" alt="c++" width="50" height="50"/>
 </a>  
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/80a66141-8eb1-4a7e-8176-98e762683e31" alt="java" width="50" height="50"/>
+</a>  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/e6806879-73e9-4080-92e6-0e2ca5213955" alt="python" width="50" height="50"/>
 </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinci" width="50" height="50"/>
