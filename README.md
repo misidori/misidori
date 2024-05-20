@@ -31,6 +31,10 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/e6806879-73e9-4080-92e6-0e2ca5213955" alt="python" width="50" height="50"/>
 </a>
 <h3 align="left">Tools:</h3>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/42_cursus/assets/123883959/e439aab4-3375-4321-bd03-0d49cfa3fedf" alt="Visual Studio Code" width="50" height="50"/>
+</a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/42_cursus/assets/123883959/ccbdc4c8-1ae4-4e2c-b371-0f026657c214" alt="IntelliJ IDEA" width="50" height="50"/>
+</a>
 <a href="https://www.microsoft.com/it-it/microsoft-365?rtc=1" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="Microsoft 365" width="50" height="50"/>
 </a>
 <a href="https://www.adobe.com/it/products/photoshop/landpb.html?gclid=CjwKCAiAr4GgBhBFEiwAgwORrWdZGzk4ewrQV3M20bHdOM3MkufOVkHbyY1AMnUwO5Emv4no_lMrixoCfpMQAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiAr4GgBhBFEiwAgwORrWdZGzk4ewrQV3M20bHdOM3MkufOVkHbyY1AMnUwO5Emv4no_lMrixoCfpMQAvD_BwE:G:s&s_kwcid=AL!3085!3!441910900757!e!!g!!adobe%20photoshop!1457478956!59242745680" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Adobe Photoshop" width="50" height="50"/>
