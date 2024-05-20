@@ -3,7 +3,7 @@
 <h1 align="left">Matteo Isidori</h1>
 <h3 align="left">An 🇮🇹 42 Rome Luiss student</h3>
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **C, C++, Java**
 
 - 👨‍💻 My portfolio as a digital artist can be seen at: https://bit.ly/3SFwAXU
 
