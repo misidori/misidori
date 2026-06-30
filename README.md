@@ -1,9 +1,10 @@
 <!-- ![MasterHead](https://media.licdn.com/dms/image/C4D16AQEd0VTzqhYUvQ/profile-displaybackgroundimage-shrink_350_1400/0/1606171839423?e=1683158400&v=beta&t=uVqzR_tKNaBTwaKkLExmdxSopDiToVFXic63poJQ_6U) -->
 
 <h1 align="left">Matteo Isidori</h1>
-<h3 align="left">An 🇮🇹 42 Rome Luiss student</h3>
 
-- 🌱 I’m currently learning **C, C++, Java**
+- 💻 Software developer
+
+- 👨🏻‍🎓 Former 42 Rome Luiss student
 
 - 👨‍💻 My portfolio as a digital artist can be seen at: https://bit.ly/3SFwAXU
 
@@ -29,6 +30,15 @@
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/6a5708df-fe0c-4d7c-a7a7-32b95c1d2def" alt="java spring" width="195" height="50"/>
 </a>  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/misidori/assets/123883959/e6806879-73e9-4080-92e6-0e2ca5213955" alt="python" width="50" height="50"/>
+</a>
+<a href="https://cloud.google.com/looker" target="_blank" rel="noreferrer">
+  <img src="https://github.com/user-attachments/assets/14a4bf25-60c4-489f-9fdd-92ba4a90e6ad" alt="lookml" height="50"/>
+</a>
+<a href="https://html5up.net/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/user-attachments/assets/320ca1d5-18e2-4eed-9305-a606a8b50881" alt="html" height="50" />
+</a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/user-attachments/assets/18dbae1f-3aed-428f-8198-6344d6a66200" alt="scss sass" height="50"/>
 </a>
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/misidori/42_cursus/assets/123883959/be56700b-7a8a-472b-a843-54a068730617" alt="Visual Studio Code" width="50" height="50"/>
